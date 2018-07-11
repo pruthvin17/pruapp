@@ -1,0 +1,22 @@
+{
+  "name": "pruapp",
+  "version": "1.0.0",
+  "description": "learning node and npm usage",
+  "main": "pruapp.js",
+  "scripts": {
+    "start": "node pruapp.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/pruthvin17/pruapp/tree/master"
+ },
+  "keywords": [
+    "pruapp"
+  ],
+  "author": "pruthvi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {}
+}
