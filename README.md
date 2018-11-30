@@ -1,4 +1,4 @@
 
-# This is a test app and will be removed.
+# This is a test app.
 
 
